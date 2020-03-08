@@ -7,3 +7,5 @@
 Hecho por gusto, para aprender. Si un dia me compro una raspberry pi, pondré a trabajar a "canillita".
 
 Falta hacerlo algo más prolijo. Pero fueron hecho mientras iba aprendiendo algo y así quedó.
+
+[Screenshot](https://i.imgur.com/hM4qtrL.png)
